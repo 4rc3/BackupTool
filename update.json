@@ -1,0 +1,4 @@
+{
+  "version": "1.0.1",
+  "notes": "• Added a progress bar for updates.\n• Fixed the infinite update loop.\n• Improved UI."
+}
