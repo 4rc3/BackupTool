@@ -1,6 +1,13 @@
 {
   "version": "1.0.7",
   "notes": [
-        "• Added estimated time remaining of the backups."
+        "• Added support for Synapser.",
+        "• Added a Drag & Drop window (Or right click to select manually).",
+        "• Added a Batch Backup functionality.",
+        "• Added a About menu bar.",
+        "• Added a Settings menu bar.",
+        "• Added a setting to compress the files to save space.",
+        "• Added a setting to allow you to open the backup destination after the backup is successful."
+    
   ]
 }
