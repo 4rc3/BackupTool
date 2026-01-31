@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "notes": [
-        "• Fixed a bug where the version number would show incorrect version."
+        "• Added estimated time remaining of the backups."
   ]
 }
